@@ -14,3 +14,6 @@ Scripts/Downloader/Data
 Scripts/Seedbox/Data
 
 Execute 'node main.js' to use the program
+
+It's designed keeping linux systems in mind if you are using some other OS please 
+modify script files accordingly
