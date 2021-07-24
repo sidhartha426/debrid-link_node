@@ -9,9 +9,8 @@ to install dependencies
 
 Create three Folders inside Scripts folder
 
-
-mkdir Scripts/Appauth/Data
-mkdir Scripts/Downloader/Data
-mkdir Scripts/Seedbox/Data
+Scripts/Appauth/Data
+Scripts/Downloader/Data
+Scripts/Seedbox/Data
 
 Execute 'node main.js' to use the program
